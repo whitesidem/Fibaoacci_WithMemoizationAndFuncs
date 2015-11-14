@@ -1,0 +1,11 @@
+C:\Source\gitub\Fibaoacci_WithMemoizationAndFuncs\TestSequenceGenerator\bin\Debug\TestSequenceGenerator.dll
+C:\Source\gitub\Fibaoacci_WithMemoizationAndFuncs\TestSequenceGenerator\bin\Debug\TestSequenceGenerator.pdb
+C:\Source\gitub\Fibaoacci_WithMemoizationAndFuncs\TestSequenceGenerator\bin\Debug\Moq.dll
+C:\Source\gitub\Fibaoacci_WithMemoizationAndFuncs\TestSequenceGenerator\bin\Debug\nunit.framework.dll
+C:\Source\gitub\Fibaoacci_WithMemoizationAndFuncs\TestSequenceGenerator\bin\Debug\Moq.xml
+C:\Source\gitub\Fibaoacci_WithMemoizationAndFuncs\TestSequenceGenerator\bin\Debug\nunit.framework.xml
+C:\Source\gitub\Fibaoacci_WithMemoizationAndFuncs\TestSequenceGenerator\obj\Debug\TestSequenceGenerator.csprojResolveAssemblyReference.cache
+C:\Source\gitub\Fibaoacci_WithMemoizationAndFuncs\TestSequenceGenerator\obj\Debug\TestSequenceGenerator.dll
+C:\Source\gitub\Fibaoacci_WithMemoizationAndFuncs\TestSequenceGenerator\obj\Debug\TestSequenceGenerator.pdb
+C:\Source\gitub\Fibaoacci_WithMemoizationAndFuncs\TestSequenceGenerator\bin\Debug\Sequencegenerator.dll
+C:\Source\gitub\Fibaoacci_WithMemoizationAndFuncs\TestSequenceGenerator\bin\Debug\Sequencegenerator.pdb
